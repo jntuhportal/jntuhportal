@@ -113,7 +113,7 @@ function Home() {
                         </p>
                     </div>
                 </Link> */}
-                <Link href="https://telegram.me/jntuh_r18">
+                <Link href="https://jntuhportal.page.link/telegram">
                     <div className="border border-gray-100 hover:drop-shadow-sm group text-black shadow-2xl max-w-xs p-6 mt-6 text-left md:w-96 rounded-xl hover:border-gray-500 transition ease-in-out delay-75 hover:-translate-y-1 hover:scale-105 hover:bg-blue-200 duration-300">
                         <h3 className="text-sky-400 text-lg sm:text-xl font-bold p-2 text-center group-hover:text-black text-lg sm:text-2xl font-bold">
                             <BiBug className="inline-block mr-2" />
@@ -124,7 +124,7 @@ function Home() {
                         </p>
                     </div>
                 </Link>
-                <Link href="https://telegram.me/jntuh_r18">
+                <Link href="https://jntuhportal.page.link/telegram">
                     <div className="border border-gray-100 hover:drop-shadow-sm group text-black shadow-2xl max-w-xs p-6 mt-6 text-left md:w-96 rounded-xl hover:border-gray-500 transition ease-in-out delay-75 hover:-translate-y-1 hover:scale-105 hover:bg-blue-200 duration-300">
                         <h3 className="text-sky-400 text-lg sm:text-xl font-bold p-2 text-center group-hover:text-black text-lg sm:text-2xl font-bold">
                             <BiMessageSquare className="inline-block mr-2" />
@@ -173,7 +173,7 @@ function Home() {
                         Download App <FiDownload className="w-5 h-5 ml-2" />
                     </div>
                 </Link>
-                <Link href="https://telegram.me/resultsjntuh">
+                <Link href="https://jntuhportal.page.link/telegram">
                     <div className="my-2 bottom-5 right-5 bg-blue-500 hover:bg-white text-white hover:text-blue-500 rounded-xl px-3 py-2 shadow-lg  flex items-center font-bold text-sm">
                         <BsTelegram className="w-5 h-5" />&nbsp; Join Us On Telegram
                     </div>

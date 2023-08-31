@@ -272,7 +272,7 @@ const Faq = () => {
             <br />
             <center>
                 <button className="w-[70px] text-white	bg-blue-700 rounded mr-1.5 text-[60%] hover:bg-yellow-400 py-[0.15em] px-[1.2em] sm:w-[180px] sm:text-[100%] font-bold" >
-                    <a href='https://telegram.me/jntuh_r18'>
+                    <a href='https://jntuhportal.page.link/telegram'>
                         Ask Questions?
                     </a>
                 </button>

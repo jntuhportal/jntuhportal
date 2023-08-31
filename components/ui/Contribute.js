@@ -10,10 +10,10 @@ const Contribute = () => {
                             Collaborators:&nbsp;
                         </p>
                         {/* <p className="text-center text-[67%] sm:text-[100%] ">
-                            <a href="https://github.com/ShravanPatelSJ" target="_blank" rel="noreferrer">
+                            <a href="https://https://jntuhportal.page.link/github" target="_blank" rel="noreferrer">
                                 Shravan Patel, Thilak Reddy&nbsp;,&nbsp;
                             </a>
-                            <a href="https://github.com/ShravanPatelSJ" target="_blank" rel="noreferrer" >
+                            <a href="https://https://jntuhportal.page.link/github" target="_blank" rel="noreferrer" >
                                 Hemanth Kotagiri&nbsp;
                             </a>
                             &&nbsp;

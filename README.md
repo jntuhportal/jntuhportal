@@ -65,8 +65,8 @@ Also feel free to message me if you have any ideas for small website tools that 
 
 - [▲ Vercel](https://vercel.com/) for fast deployments served from the edge, hosting our website, downloads, and updates.
 - [Next.js](https://nextjs.org/) for development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
-- [Shravan Patel, Thilak Reddy](https://github.com/ShravanPatelSJ) for fast deployment Backend served 
-- [HEMANTH KOTAGIRI](https://github.com/ShravanPatelSJ) for fast deployments RestApi served 
+- [Shravan Patel, Thilak Reddy](https://https://jntuhportal.page.link/github) for fast deployment Backend served 
+- [HEMANTH KOTAGIRI](https://https://jntuhportal.page.link/github) for fast deployments RestApi served 
 
 
 "# JNTUH RESULTS" 
