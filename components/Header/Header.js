@@ -33,11 +33,11 @@ const Header = () => {
 
         <meta name="google-site-verification" content="FUy87m9L-VxJNFarXrOAq8E6TLmFSOFkkeFZsIZEMOk" />
 
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9108352648701072"
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5594016025286830"
           crossorigin="anonymous" />
         {/* <Script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9108352648701072"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5594016025286830"
           strategy="afterInteractive"
           crossOrigin="anonymous"
         /> */}
