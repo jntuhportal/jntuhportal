@@ -286,6 +286,8 @@ export default async function handler(req, res) {
 
     // List of allowed origins
     const allowedOrigins = [
+        "https://jntuhportal.vercel.app",
+        "https://portaljntuh.vercel.app"
         "https://resultsjntuh.vercel.app",
         "https://resultsjntuh.netlify.app",
         "http://localhost:3000"
@@ -310,7 +312,7 @@ export default async function handler(req, res) {
     // Set CORS headers to allow requests from any origin
     // res.setHeader('Access-Control-Allow-Origin', '*');
 
-    // res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000, https://resultsjntuh.vercel.app, https://resultsjntuh.netlify.app');
+    // res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000, https://jntuhportal.vercel.app, https://portaljntuh.vercel.app, https://resultsjntuh.vercel.app, https://resultsjntuh.netlify.app');
 
     // Optionally, you can set other CORS headers if needed
     // res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
