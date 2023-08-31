@@ -1,3 +1,3 @@
-const redisurl = "https://resultsjntuhv4.netlify.app"
+const redisurl = "https://jntuhportal.vercel.app"
 
 export default redisurl;
